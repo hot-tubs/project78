@@ -309,6 +309,12 @@
     <Compile Include="Assets\HoloToolkit\Utilities\Scripts\Utils.cs" />
     <Compile Include="Assets\HoloToolkit\Utilities\Scripts\VectorRollingStatistics.cs" />
     <Compile Include="Assets\HoloToolkit\Utilities\Scripts\WorldAnchorManager.cs" />
+    <Compile Include="Assets\Holograms\Support\AniCrane\AnimationSpeed.cs" />
+    <Compile Include="Assets\Holograms\Support\Fitbox\Fitbox.cs" />
+    <Compile Include="Assets\Holograms\Support\Fitbox\Interpolator.cs" />
+    <Compile Include="Assets\Holograms\Support\Spatial Mapping\SpatialMapping.cs" />
+    <Compile Include="Assets\Holograms\Support\Underworld\UnderworldReset.cs" />
+    <Compile Include="Assets\Holograms\Support\Underworld\UnderworldSound.cs" />
     <Compile Include="Assets\Scripts\CubeCommands.cs" />
     <Compile Include="Assets\Scripts\GazeGestureManager.cs" />
     <Compile Include="Assets\Scripts\MouseDrag.cs" />
